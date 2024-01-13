@@ -14,6 +14,7 @@ I am interested in programming, completing projects, and teamwork.
 - [X] SQL Server
 - [ ] MongoDB
 - [X] Git
+- [X] C++
   
 If you're interested in me, contact at [teguhmad123@gmail.com](mailto:teguhmad123@gmail.com).
 
